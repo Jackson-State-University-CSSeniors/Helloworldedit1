@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class NewSeason {
     public static void main(String [] arg){
      System.out.println("Hello World!");
-     System.out.println("My name is Timothy Stewart");
+     System.out.println("My name is Timothy Stewart  ");
 
 }
 }
